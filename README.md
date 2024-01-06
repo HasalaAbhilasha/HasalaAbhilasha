@@ -37,8 +37,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hasala-abhilasha"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/hasala_abhi"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/hasala.abhilasha.923"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/Hasala-Abhilasha"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hasala-abhilasha">
+<a href="https://instagram.com/hasala_abhi">
+<a href="https://facebook.com/hasala.abhilasha.923">
+<a href="https://www.behance.net/Hasala-Abhilasha">
 </p>
