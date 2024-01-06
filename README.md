@@ -23,22 +23,3 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/HasalaAbhilasha">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HasalaAbhilasha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HasalaAbhilasha&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hasala-abhilasha">
-<a href="https://instagram.com/hasala_abhi">
-<a href="https://facebook.com/hasala.abhilasha.923">
-<a href="https://www.behance.net/Hasala-Abhilasha">
-</p>
